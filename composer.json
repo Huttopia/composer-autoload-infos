@@ -1,0 +1,6 @@
+{
+    "name": "huttopia/composer-autoload-infos",
+    "description": "All you need to know about autoload with Composer, in a single file, without any dependency.",
+    "license": "MIT",
+    "type": "project"
+}
