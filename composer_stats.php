@@ -102,7 +102,8 @@ function writePath(string $path): void
             'vendor/composer/composer',
             '../vendor/composer',
             '../vendor/composer/composer',
-            '../../composer'
+            '../../composer',
+            '../vendor'
         ];
 
         $autoloadFiles = null;
